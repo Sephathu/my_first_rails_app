@@ -1,0 +1,15 @@
+current directory: /home/daniel/.gem/gems/websocket-driver-0.7.1/ext/websocket-driver
+/snap/bin/ruby -I /snap/ruby/160/lib/ruby/2.6.0 -r ./siteconf20191121-2118-ny5kvo.rb extconf.rb
+creating Makefile
+
+current directory: /home/daniel/.gem/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/daniel/.gem/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/daniel/.gem/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20191121-2118-1avdfkh
